@@ -1,6 +1,6 @@
 # Kossi Agode
 
-**Founder & Systems Programmer, TOUTLINK | Verifiable Integrity | Focus: Embedded & Safety-Critical Systems**
+**Founder & Systems Programmer, TOUTLINK | Verifiable Integrity | Computing · Embedded · Industrial · High-Assurance | BCIE**
 
 I build systems software focused on verifiable integrity, deterministic behavior, reliability, and verification.
 
@@ -12,10 +12,16 @@ I build systems software focused on verifiable integrity, deterministic behavior
 
 BCIE is being developed to:
 
-- establish trusted configuration baselines
-- detect changes to system state
+- establish trusted baselines
+- monitor system state
+- detect change
+- verify integrity
 - produce independently checkable evidence
 - support deterministic and verifiable system behavior
+
+Integrity model:
+
+**OBSERVE → BASELINE → MONITOR → COMPARE → VERIFY → EVIDENCE**
 
 ## Technical Focus
 
@@ -24,15 +30,19 @@ BCIE is being developed to:
 - Linux systems programming
 - Embedded systems
 - Real-time systems
-- Verification
+- Deterministic systems
+- Software verification
 - Reliability
 - Safety-critical engineering
+- High-assurance systems
 
-## TOUTLINK Systems Roadmap
+## TOUTLINK
 
-**BCIE → TOUTKV → TOUTPOWER → TOUTSYNC**
+TOUTLINK builds systems for Verifiable Integrity: systems that produce independently checkable evidence of system and data integrity — at rest, in motion, and in execution.
 
-The roadmap is intentionally focused on low-level systems engineering and infrastructure where integrity can be verified rather than assumed.
+Engineering focus:
+
+**Computing · Embedded · Industrial · High-Assurance**
 
 ## Engineering Principle
 
