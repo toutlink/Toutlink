@@ -51,4 +51,5 @@ Engineering focus:
 ## Links
 
 - TOUTLINK: https://toutlink.com
+- X: https://x.com/kossi_agode
 - LinkedIn: https://www.linkedin.com/in/kossiagode
